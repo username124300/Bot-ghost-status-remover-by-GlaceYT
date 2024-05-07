@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["PLAYING","<:rr_logo:1235187474830196787>
+ Giving Giftcards"];
 
 
 let currentIndex = 0;
