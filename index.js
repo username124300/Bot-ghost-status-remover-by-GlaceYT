@@ -36,7 +36,9 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["<:rr_logo:1235187474830196787>
+ discord.gg/robloxrewards","<a:rainbow_robux:1232760197290659922>
+ Paying Robux"];
 
 
 let currentIndex = 0;
