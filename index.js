@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Giving Robux",".gg/robuxgiveaway"];
+const statusMessages = ["Paying Inviters",".gg/fnr"];
 
 
 let currentIndex = 0;
